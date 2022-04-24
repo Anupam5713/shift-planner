@@ -13,5 +13,5 @@ To build the app in local:-
 To run in local:-
 ./gradlew bootRun 
 
-To run junits:-
+To run junits in local:-
 ./gradlew test
